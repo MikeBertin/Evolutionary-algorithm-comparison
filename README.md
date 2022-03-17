@@ -7,17 +7,4 @@ The target is a string.
 
 Methinks from command line with git for portfolio
 
-TODO:
-- Put todo items into issues
-- Should it measure evaluations or generations or both and plot six lines per graph?
-- Clone tqdm for Colab version for progress bar 
-
-
-
-Done:
-- Put notebook into .py - done
-- add if name = main part - done
-- add click library user input when program runs - not necessary because input() does the job
-- Can it plot the graph when run this way does it need the jupyter notebook to make the graph? - Yes, it plots a graph as output
-
-
+(Todos should now be in issues)
